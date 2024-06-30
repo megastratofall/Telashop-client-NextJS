@@ -4,9 +4,10 @@ Este es el mismo proyecto de venta de telas, con opción de pago con MercadoPago
 Para iniciar el proyecto, ejecuta el siguiente comando:
 ```sh
 npm run dev
+
 ## Video de demostración
 
 Telashop video-prueba de funcionamiento, NEXTJS
 
-<a href="https://youtu.be/DeAw1uD5Cng" target="_blank">Ver el video</a>
+[Ver el video](https://youtu.be/DeAw1uD5Cng)
 
