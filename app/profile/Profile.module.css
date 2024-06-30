@@ -1,0 +1,44 @@
+.profileContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.profileCard {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: left; 
+}
+
+.userIcon {
+    display: block;
+    margin: 0 auto 20px auto; 
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.profileCard h2,
+.profileCard p {
+    margin: 10px 0;
+}
+
+.loadingContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.loading {
+    font-size: 24px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

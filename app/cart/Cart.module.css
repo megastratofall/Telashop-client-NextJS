@@ -1,0 +1,46 @@
+.cartContainer {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.cartTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.cartTable,
+.cartTable th,
+.cartTable td {
+    border: 1px solid #ccc;
+}
+
+.cartTable th,
+.cartTable td {
+    padding: 8px;
+    text-align: left;
+}
+
+.cartTable tfoot {
+    font-weight: bold;
+}
+
+.removeButton {
+    background-color: #0056b3;
+    color: white;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+}
+
+.buyButton {
+    background-color: #0056b3;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 20px;
+}
